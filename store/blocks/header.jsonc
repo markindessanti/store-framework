@@ -15,7 +15,8 @@
   "header-layout.mobile": {
     "children": [
       "header-row#notification",
-      "header-row#main"
+      "header-row#main-mobile",
+      "header-row#search"
     ]
   },
 	"header-row#notification": {
